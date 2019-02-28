@@ -1,0 +1,7 @@
+id=magisk-gayathri-manjari
+name=Gayathri+Manjari
+version=v1.0
+versionCode=1
+author=jishnu7
+description=Use Gayathri as default font for UI and Manjari for content.
+minMagisk=17000
